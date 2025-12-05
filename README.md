@@ -1,5 +1,9 @@
 # Updated for 2026 play on YARG:
 
+As you may or may not know YARG has pro keys support but only the wii and xbox 360 keyboards seem to work wirelessly out of the 
+box, ps3 keys aren't natively supported (wirelessly) at the moment,  this program aims to make the ps3 keys fully work wirelessly
+in-game.
+
 I Modified the original code so that all buttons are mapped to a MIDI button (in the latest release from 2016 only the keys 
 had MIDI events assigned to them, not the dpad/face buttons/overdrive/start/select buttons.)
   
@@ -28,9 +32,10 @@ Usage
     
     Wii: “vid: 1bad pid:3330”
 
-3. With a virtual MIDI device program running, run RB3KB-USB2MIDI.exe, select your virtual device and click “Doing Nothing” to run.  (DISABLE LED ANIMATIONS)
+3. With a virtual MIDI device program running (e.g loopMIDI), run RB3KB-USB2MIDI.exe, select your virtual device and click “Doing Nothing”
+   to run.  (DISABLE LED ANIMATIONS OR YOU MAY BRICK YOUR DEVICE)
 
-4. Open YARG, go to your profile and  map your keys
+5. Open YARG, go to your profile and  map your keys
 
 
 
