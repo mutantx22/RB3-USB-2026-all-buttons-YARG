@@ -11,7 +11,7 @@ program doesn't work when keyboard is plugged into a USB hub
 
 Requires
 
-    -Windows with .NET 4.5 Framework
+    -Windows with .NET 4.5 Framework  (only required if building/compilihg??? - i don't have it on my computer and the programn still works)
     
     -LibUSB filter driver, e.g. wizard from LibUsbDotNet
     
