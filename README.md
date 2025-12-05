@@ -5,7 +5,7 @@ had MIDI events assigned to them, not the dpad/face buttons/overdrive/start/sele
   
 issues unresolved/ to fix:
 
-program doesn't work when keyboard is plugged into a USB hub
+program doesn't work when keyboard is plugged into a USB hub   (actually it does but you have to install a new filter for each new hub it's in)
 
 # Installation instructions:
 
