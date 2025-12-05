@@ -20,13 +20,17 @@ Requires
 If you want to compile it yourself you’ll need LibUsbDotNet and midi-dot-net - the packages on NuGet will do.
 Usage
 
-Install the LibUSB filter driver on your keyboard, keep in mind this is per USB port.
+1.  Install LoopMIDI
+
+2. Install the LibUSB filter driver on your keyboard, keep in mind this is per USB port.
 
     PS3: “vid: 12ba pid:2330”
     
     Wii: “vid: 1bad pid:3330”
 
-With a virtual MIDI device program running, run RB3KB-USB2MIDI, select your virtual device and click “Doing Nothing” to run.
+3. With a virtual MIDI device program running, run RB3KB-USB2MIDI.exe, select your virtual device and click “Doing Nothing” to run.  (DISABLE LED ANIMATIONS)
+
+4. Open YARG, go to your profile and  map your keys
 
 
 
